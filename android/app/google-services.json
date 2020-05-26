@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "697089683741",
+    "firebase_url": "https://driveguard-2fc37.firebaseio.com",
+    "project_id": "driveguard-2fc37",
+    "storage_bucket": "driveguard-2fc37.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:697089683741:android:2afd046ee0b4b4077d31f4",
+        "android_client_info": {
+          "package_name": "strange.driveguard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "697089683741-9krcr3m0cggi7rto8nns3trn3iqth1e5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-AJORqupMPQRiM0JcWZ-UFXmdbMaxhUM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "697089683741-9krcr3m0cggi7rto8nns3trn3iqth1e5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
